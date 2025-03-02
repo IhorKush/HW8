@@ -4,7 +4,7 @@ import java.util.Random;
 public class Main {
     public static void main(String[] args) {
         //#1 Создать массив из 10 целых чисел. Значения могут быть любыми
-        int[] array = {5, 19, 32, 11, 56, 49, 77, 90, 26, 85};
+        int[] array = {5, 19, 32, 11, 56, 49, 77, 90, 26, 63};
 
         //#2 Распечатать все значения массива начиная с 0 до последнего индексов.
         for (int j : array) {
